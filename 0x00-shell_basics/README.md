@@ -29,3 +29,7 @@
 
 10. 9-firstdirdeletion
     - Delete the directory ***my_first_directory*** from ***/tmp*** directory.
+
+11. 10-back
+    - Go back to the previous directory.
+
