@@ -20,3 +20,6 @@
 
 7. 6-firstdirectory
    - Create ***my_first_directory*** directory in the **/tmp/** directory.
+
+8. 7-movethatfile
+   - Move the file **betty** from ***/tmp/*** directory to ***/tmp/my_first_directory*** directory.
