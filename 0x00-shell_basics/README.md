@@ -2,3 +2,6 @@
 
 1. 0-current_working_directory
    - Prints the absolute path name of the current working directory.
+
+2. 1-listit
+   - Print or display the contents of your current working directory as a list.
