@@ -23,3 +23,6 @@
 
 8. 7-movethatfile
    - Move the file **betty** from ***/tmp/*** directory to ***/tmp/my_first_directory*** directory.
+
+9. 8-firstdelete
+   - Delete the file **betty** from ***/tmp/my_first_directory*** directory.
