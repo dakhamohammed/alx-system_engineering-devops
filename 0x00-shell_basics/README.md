@@ -15,3 +15,5 @@
 5. 4-listmorefiles
    - Display current directory contents including hidden files in a long list format.
 
+6. 5-listfilesdigitonly
+   - Display current directory contents with user and group IDs numerically.
