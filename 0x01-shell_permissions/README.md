@@ -15,4 +15,7 @@
 5. 4-empty
    - Shell script that creates an empty file with name ***hello***.
 
+6. 5-execute
+   - Shell script that adds execute permission to the owner of the file hello.
+
 
