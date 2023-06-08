@@ -52,4 +52,7 @@
 16. 101-symbolic_link_permissions
     - Shell script that changes the owner and the group owner of **_hello** to **vincent** and **staff** respectively.
 
+17. 102-if_only
+    - Shell script that changes the owner of the file **hello** to **bety** only if it is owned by the user **guillaume**.
+
 
