@@ -51,4 +51,7 @@
 17. 101-clean_emacs
     - A Shell script that deletes all files in the current working directory that end with the character ~.
 
+18. 102-tree
+    - Shell script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
 
