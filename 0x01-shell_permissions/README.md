@@ -9,7 +9,10 @@
 3. 2-groups
    - Shell script that prints all the groups the current user is part of.
 
-4 3-new_owner
+4. 3-new_owner
   - Shell script that change the owner of the file hello to the user betty.
+
+5. 4-empty
+   - Shell script that creates an empty file with name ***hello***.
 
 
