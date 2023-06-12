@@ -69,4 +69,8 @@
 22. 21-reverse
     - Shell script that reverse its input.
 
+23. 22-users_and_homes
+    - Shell script that displays all users and their home directories, sorted by users.
+      - Based on the the /etc/passwd file
+
 
