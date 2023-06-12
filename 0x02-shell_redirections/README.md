@@ -9,4 +9,6 @@
 3. 2-hellofile
    - Shell script that display the content of the **/etc/passwd** file.
 
+4. 3-twofiles
+   - Shell script that display the content of **/etc/passwd** and **/etc/hosts**.
 
