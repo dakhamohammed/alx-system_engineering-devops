@@ -66,4 +66,7 @@
 21. 20-hiago
     - Shell script that removes all letters c and C from input.
 
+22. 21-reverse
+    - Shell script that reverse its input.
+
 
