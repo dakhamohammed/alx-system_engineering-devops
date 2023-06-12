@@ -3,4 +3,6 @@
 1. 0-hello_world
    - Shell script that prints **"Hello, World"**, followed by new line to the standard output.
 
+2. 1-confused_smiley
+   - Shell script that displays a confused smiley "(Ôo)'.
 
