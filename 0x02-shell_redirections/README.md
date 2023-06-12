@@ -18,3 +18,6 @@
 6. 5-firstlines
    Shell script that display the first 10 lines of **/etc/passwd**.
 
+7. 6-third_line
+   - Shell script that display only the third line of the file **iacta**.
+
