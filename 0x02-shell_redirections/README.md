@@ -6,3 +6,7 @@
 2. 1-confused_smiley
    - Shell script that displays a confused smiley "(Ôo)'.
 
+3. 2-hellofile
+   - Shell script that display the content of the **/etc/passwd** file.
+
+
