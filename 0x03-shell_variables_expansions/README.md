@@ -48,3 +48,7 @@
     - Shell script that prints all possible combinations of two letters, exept oo.
       - Letters are lower cases, from a to z
 
+14. 13-print_float
+    - Shell script that print a number with two decimal places.
+      - The number will be stored in the env variable **NUM**
+
