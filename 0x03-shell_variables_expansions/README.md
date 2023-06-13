@@ -21,4 +21,11 @@
 
 7. 6-create_local_variable
    - Shell script that create a new local variable.
+     - Name: BEST
+     - Value: School
+
+8. 7-create_global_variable
+   - Shell script that creates a new global variable.
+     - Name: BEST
+     - Value: School
 
