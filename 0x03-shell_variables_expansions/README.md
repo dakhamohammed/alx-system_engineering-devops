@@ -16,3 +16,6 @@
 5. 4-global_variables
    - Shell script that lists environment variables.
 
+6. 5-local_variables
+   - Shell script that lists all local variables and environment variables, and functions.
+
