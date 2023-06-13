@@ -36,3 +36,7 @@
     - Shell script that prints the result of **POWER** divided by **DIVIDE**.
       - **POWER** and **DIVIDE** are env variables
 
+11. 10-love_exponent_breath
+    - Shell script that displays the result of **BREATH** to the power **LOVE**.
+      - **BREATH** and **LOVE** are env variables
+
