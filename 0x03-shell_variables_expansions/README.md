@@ -13,4 +13,6 @@
 4. 3-paths
    - Shell script that counts the number of directories in the **PATH**.
 
+5. 4-global_variables
+   - Shell script that lists environment variables.
 
