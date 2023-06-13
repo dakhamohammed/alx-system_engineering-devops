@@ -10,4 +10,7 @@
 3. 2-path
    - Shell script that add /action to the PATH.
 
+4. 3-paths
+   - Shell script that counts the number of directories in the **PATH**.
+
 
