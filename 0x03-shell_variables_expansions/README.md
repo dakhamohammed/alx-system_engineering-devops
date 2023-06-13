@@ -19,3 +19,6 @@
 6. 5-local_variables
    - Shell script that lists all local variables and environment variables, and functions.
 
+7. 6-create_local_variable
+   - Shell script that create a new local variable.
+
