@@ -32,3 +32,7 @@
 9. 8-true_knowledge
    - Shell script that prints the result of the addition of 128 with the value stored in the env variable **TRUEKNOWLEDGE**.
 
+10. 9-divide_and_rule
+    - Shell script that prints the result of **POWER** divided by **DIVIDE**.
+      - **POWER** and **DIVIDE** are env variables
+
