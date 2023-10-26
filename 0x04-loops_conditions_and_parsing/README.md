@@ -53,3 +53,23 @@
      - In a list format
      - Where only the part of the name after the first dash is displayed
 
+10. **Task 9: To file, or not to file.** `9-to_file_or_not_to_file`
+    - Bash script that gives you information about the school file.
+    ```bash
+    user@linux$ file school
+    school: cannot open `school' (No such file or directory)
+    user@linux$ ./9-to_file_or_not_to_file
+    school file does not exist
+    user@linux$ touch school
+    user@linux$ ./9-to_file_or_not_to_file
+    school file exists
+    school file is empty
+    school is a regular file
+    user@linux$ echo 'Dakhamat' > school
+    user@linux$ ./9-to_file_or_not_to_file
+    school file exists
+    school file is not empty
+    school is a regular file
+    user@linux$ 
+    ```
+
