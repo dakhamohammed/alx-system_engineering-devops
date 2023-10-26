@@ -21,3 +21,7 @@
    - Bash script that displays Best School 10 times:
      - using `while` loop.
 
+4. **Task 3: Until loop.** `3-until_best_school`
+   - Bash script that displays Best School 10 times.
+     - using `until` loop.
+
