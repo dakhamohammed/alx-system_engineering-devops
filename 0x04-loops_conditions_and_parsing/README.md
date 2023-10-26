@@ -25,3 +25,7 @@
    - Bash script that displays Best School 10 times.
      - using `until` loop.
 
+5. **Task 4: If statement.** `4-if_9_say_hi`
+   - Bash script that displays Best School 10 times, but for the 9th iteration, displays Best School and then Hi on a new line.
+     - using `while` loop and `if` statement.
+
