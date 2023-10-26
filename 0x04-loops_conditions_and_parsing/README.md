@@ -36,3 +36,9 @@
      - displays `Best School` for the other iterations
      - using `while` loop and `if`, `elif`, `else` statements
 
+7. **Task 6: Case statement.** `6-superstitious_numbers`
+   - Bash script that displays numbers from 1 to 20 and:
+     - displays `4` and then `bad luck from China` for the 4th loop iteration
+     - displays `9` and then `bad luck from Japan` for the 9th loop iteration
+     - displays `17` and then `bad luck from Italy` for the 17th loop iteration
+
