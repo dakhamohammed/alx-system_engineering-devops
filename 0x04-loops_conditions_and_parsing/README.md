@@ -81,3 +81,6 @@
       - Otherwise, displays the number
       - In a list format
 
+12. **Task 11: Read and cut.** `100-read_and_cut`
+    - Bash script that displays the content of the file /etc/passwd.
+
