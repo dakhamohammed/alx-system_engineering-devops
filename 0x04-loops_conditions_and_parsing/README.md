@@ -8,3 +8,8 @@
    - How to use the `cut` command
    - What are files and other comparison operators, and how to use them
 
+### Tasks: ###
+
+1. **Task 0: SSH RSA key pair.** `0-RSA_public_key.pub`
+   - SSH and RSA keys will be covered in depth in a later project.
+
