@@ -14,5 +14,10 @@
    - SSH and RSA keys will be covered in depth in a later project.
 
 2. **Task 1: For loop.** `1-for_best_school`
-   - Bash script that displays `Best School` 10 times.
+   - Bash script that displays `Best School` 10 times:
+     - using `for` loop.
+
+3. **Task 2: While loop.** `2-while_best_school`
+   - Bash script that displays Best School 10 times:
+     - using `while` loop.
 
