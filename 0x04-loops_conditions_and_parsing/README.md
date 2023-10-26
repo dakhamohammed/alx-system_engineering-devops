@@ -42,3 +42,8 @@
      - displays `9` and then `bad luck from Japan` for the 9th loop iteration
      - displays `17` and then `bad luck from Italy` for the 17th loop iteration
 
+8. **Task 7: Clock.** `7-clock`
+   - Bash script that displays the time for 12 hours and 59 minutes:
+     - display hours from 0 to 12
+     - display minutes from 1 to 59
+
