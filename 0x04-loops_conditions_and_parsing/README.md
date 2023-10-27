@@ -84,3 +84,6 @@
 12. **Task 11: Read and cut.** `100-read_and_cut`
     - Bash script that displays the content of the file /etc/passwd.
 
+13. **Task 12: Tell the story of passwd.** `101-tell_the_story_of_passwd`
+    - Bash script that displays the content of the file `/etc/passwd`, using the `while` loop + `IFS`.
+
