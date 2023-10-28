@@ -16,3 +16,6 @@
 2. **Task 1: List your processes.** `1-list_your_processes`
    - Bash script that displays a list of currently running processes.
 
+3. **Task 2: Show your Bash PID.** `2-show_your_bash_pid`
+   - Bash script that displays lines containing the `bash` word.
+
