@@ -25,3 +25,7 @@
 5. **Task 4: To infinity and beyond.** `4-to_infinity_and_beyond`
    - Bash script that displays `To infinity and beyond` indefinitely.
 
+6. **Task 5: Don't stop me now!.** `5-dont_stop_me_now`
+   - Bash script that stops `4-to_infinity_and_beyond` process.
+     - using `kill` command.
+
