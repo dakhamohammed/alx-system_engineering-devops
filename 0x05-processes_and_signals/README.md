@@ -39,3 +39,22 @@
      - With a `sleep 2` in between each iteration
      - `I am invincible!!!` when receiving a `SIGTERM` signal
 
+9. **Task 8: Beheaded process.** `8-beheaded_process`
+   - Bash script that kills the process `7-highlander`.
+   - Terminal #0   
+   ```bash
+   dakhamat@ubuntu20.04$ ./7-highlander
+   To infinity and beyond
+   To infinity and beyond
+   To infinity and beyond
+   To infinity and beyond
+   Killed
+   dakhamat@ubuntu20.04$ 
+   ```
+   - Terminal #1
+   ```bash
+   dakhamat@ubuntu20.04$ ./8-beheaded_process
+   dakhamat@ubuntu20.04$ 
+   ```
+   - I started `7-highlander` in Terminal #0 and then run `8-beheaded_process` in terminal #1 and we can see that the `7-highlander` has been killed.
+
