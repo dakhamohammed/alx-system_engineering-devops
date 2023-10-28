@@ -8,3 +8,8 @@
   - What is a signal
   - What are the 2 signals that cannot be ignored
 
+# Tasks:
+
+1. **Task 0: What is my PID.** `0-what-is-my-pid`
+   - Bash script that displays its own PID.
+
