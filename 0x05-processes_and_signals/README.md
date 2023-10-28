@@ -29,3 +29,7 @@
    - Bash script that stops `4-to_infinity_and_beyond` process.
      - using `kill` command.
 
+7. **Task 6: Stop me if you can.** `6-stop_me_if_you_can`
+   - Bash script that stops `4-to_infinity_and_beyond` process.
+     - usind `pkill` command.
+
