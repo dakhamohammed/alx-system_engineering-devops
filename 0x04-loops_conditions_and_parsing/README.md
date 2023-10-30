@@ -87,3 +87,6 @@
 13. **Task 12: Tell the story of passwd.** `101-tell_the_story_of_passwd`
     - Bash script that displays the content of the file `/etc/passwd`, using the `while` loop + `IFS`.
 
+14. **Task 13: Let's parse Apache logs** `102-lets_parse_apache_logs`
+    - Bash script that displays the visitor IP along with the HTTP status code from the Apache log file.
+
