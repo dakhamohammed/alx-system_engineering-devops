@@ -90,3 +90,6 @@
 14. **Task 13: Let's parse Apache logs** `102-lets_parse_apache_logs`
     - Bash script that displays the visitor IP along with the HTTP status code from the Apache log file.
 
+15. **Task 14: Dig the data.** `103-dig_the-data`
+    - Bash script that groups visitors by IP and HTTP status code, and displays this data.
+
