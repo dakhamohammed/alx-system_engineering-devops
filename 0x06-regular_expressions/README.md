@@ -32,3 +32,6 @@
 7. **Task 6: Call me maybe.** `6-phone_number.rb`
    - Regular expression match a 10 digit phone number.
 
+8. **Task 7: capital letters.** `7-OMG_WHY_ARE_YOU_SHOUTING.rb`
+   - Regular expression matching: capital letters.
+
