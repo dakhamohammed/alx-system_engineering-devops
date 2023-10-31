@@ -25,3 +25,7 @@
      - The regular expression that will match the below cases:
        - `hbn` `hbtn` `hbttn` `hbtttn` `hbttttn`
 
+6. **Task 5: Not quite HBTN yet.** `5-beginning_and_end.rb`
+   - Ruby script that accepts one argument and pass it to a regular expression matching method.
+     - Matching a string that starts with h ends with n and can have any single character in between
+
