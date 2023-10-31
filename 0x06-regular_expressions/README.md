@@ -15,3 +15,8 @@
      - The regular expression that will match the below cases:
        - `htn` & `hbtn`
 
+4. **Task 3: Repetition Token #2.** `3-repetition_token_2.rb`
+   - Ruby script that accepts one argument and pass it to a regular expression matching method.
+     - The regular expression that will match the below cases:
+       - `hbtn` `hbttn` `hbtttn` `hbttttn`
+
