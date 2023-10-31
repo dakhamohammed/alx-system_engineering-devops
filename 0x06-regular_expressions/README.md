@@ -10,3 +10,8 @@
    - Ruby script that accepts one argument and pass it to a regular expression matching method.
      - The regular expression must match `hbtn`
 
+3. **Task 2: Repetition Token #1** `2-repetition_token_1.rb`
+   - Ruby script that accepts one argument and pass it to a regular expression matching method.
+     - The regular expression that will match the below cases:
+       - `htn` & `hbtn`
+
