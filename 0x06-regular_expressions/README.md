@@ -35,3 +35,11 @@
 8. **Task 7: capital letters.** `7-OMG_WHY_ARE_YOU_SHOUTING.rb`
    - Regular expression matching: capital letters.
 
+9. **Task 8: Textme.** `100-textme.rb`
+   - Run some statistics on the TextMe app text messages transactions.
+     - output: `[SENDER]`,`[RECEIVER]`,`[FLAGS]`
+       - The `sender` phone number or name (including country code if present)
+       - The `receiver` phone number or name (including country code if present)
+       - The `flags` that were used
+     - You can find a [log file here](http://intranet-projects-files.s3.amazonaws.com/holbertonschool-sysadmin_devops/78/text_messages.log).
+
