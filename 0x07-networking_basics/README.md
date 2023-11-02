@@ -42,3 +42,8 @@
    -  MAC address: The unique identifier of a network interface.
    - IP address: Is to devices connected to a network.
 
+4. **UDP and TCP**
+   - TCP: It is a protocol that is transferring data in a slow way but surely.
+   - UDP: It is a protocol that is transferring data in a fast way and might loss data along in the process.
+   - TCP worker: Have you received boxes x, y, z?
+
