@@ -38,3 +38,7 @@
    - WAN: connects LANs together.
    - Internet: www.google.com :)
 
+3. **MAC and IP address**
+   -  MAC address: The unique identifier of a network interface.
+   - IP address: Is to devices connected to a network.
+
