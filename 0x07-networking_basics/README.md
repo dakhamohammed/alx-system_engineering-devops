@@ -33,3 +33,8 @@
    - OSI (Open Systems Interconnection) is an abstract model to describe layered communication and computer network design. The idea is to segregate the different parts of what make communication possible.
      - File: `0-OSI_model`
 
+2. **Types of network**
+   - lAN: connect local devices together.
+   - WAN: connects LANs together.
+   - Internet: www.google.com :)
+
