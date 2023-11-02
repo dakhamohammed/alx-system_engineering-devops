@@ -23,4 +23,6 @@
      127.0.0.1$
      user@ubuntu$ 
      ```
+3. **Task 2: Port listening on localhost.** `100-port_listening_on_localhost`
+   - Bash script that listens on port 98 on localhost.
 
