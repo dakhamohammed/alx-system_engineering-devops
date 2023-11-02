@@ -29,3 +29,7 @@
   * Memorize SSH, HTTP and HTTPS port numbers
   * What tool/protocol is often used to check if a device is connected to a network
 
+1. **OSI model**
+   - OSI (Open Systems Interconnection) is an abstract model to describe layered communication and computer network design. The idea is to segregate the different parts of what make communication possible.
+     - File: `0-OSI_model`
+
