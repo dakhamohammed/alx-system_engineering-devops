@@ -14,3 +14,13 @@
      - localhost resolves to 127.0.0.2
      - facebook.com resolves to 8.8.8.8
 
+2. **Task 1: Show attached IPs.** `1-show_attached_IPs`
+   - Bash script that displays all active IPv4 IPs on the machine it’s executed on.
+     - Example:
+     ```bash
+     user@ubuntu$ ./1-show_attached_IPs | cat -e
+     10.0.2.15$
+     127.0.0.1$
+     user@ubuntu$ 
+     ```
+
