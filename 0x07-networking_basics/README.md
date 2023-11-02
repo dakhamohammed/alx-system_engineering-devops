@@ -47,3 +47,9 @@
    - UDP: It is a protocol that is transferring data in a fast way and might loss data along in the process.
    - TCP worker: Have you received boxes x, y, z?
 
+5. **TCP and UDP ports**
+   - Bash script that displays listening ports:
+     - 22 for SSH
+     - 80 for HTTP
+     - 443 for HTTPS
+
