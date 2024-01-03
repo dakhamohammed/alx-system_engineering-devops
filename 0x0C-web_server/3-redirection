@@ -6,7 +6,7 @@ sudo ufw allow 'Nginx HTTP'
 
 mkdir -p /var/www/html/
 sudo chmod -R 755 /var/www/html/
-echo 'Hello, Dakhamat Mohammed' > /var/www/html/home.html
+echo 'Hello World!' > /var/www/html/home.html
 
 SERVER_CONFIG=\
 "server {
