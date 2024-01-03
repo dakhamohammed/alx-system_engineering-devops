@@ -4,7 +4,9 @@ apt-get update
 apt-get -y install nginx
 sudo ufw allow 'Nginx HTTP'
 
-echo 'Hello World!' > /var/www/html/index.nginx-debian.html
+mkdir -p /var/www/html/
+sudo chmod -R 755 /var/www
+echo 'Hello World!' > /var/www/html/index.html
 
 SERVER_CONFIG=\
 "server {
@@ -17,7 +19,7 @@ SERVER_CONFIG=\
 		try_files \$uri \$uri/ =404;
 	}
 	if (\$request_filename ~ redirect_me){
-		rewrite ^ https://github.com/dakhamohammed permanent;
+		rewrite ^ https://www.youtube.com/watch?v=QH2-TGUlwu4 permanent;
 	}
 }"
 
