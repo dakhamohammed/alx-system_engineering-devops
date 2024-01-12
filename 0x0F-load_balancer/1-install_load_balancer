@@ -7,14 +7,14 @@ apt-get install -y haproxy=2.9.\*
 
 echo "ENABLED=1" > /etc/default/haproxy
 echo "
-   listen load_balancer
+   listen backend_load_balancer
    bind *:80
    mode http
    balance roundrobin
    option httpclose
    option forwardfor
-   server 440041-web-01 100.24.74.240:80 check
-   server 440041-web-02 100.26.212.140:80 check
+   server 440041-web-01 100.25.22.221:80 check
+   server 440041-web-02 100.25.104.96:80 check
 " >> /etc/haproxy/haproxy.cfg
 
 service haproxy start
