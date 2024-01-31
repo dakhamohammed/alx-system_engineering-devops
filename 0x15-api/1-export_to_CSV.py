@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-"""records all tasks that are owned by this employee"""
-
 if __name__ == "__main__":
+    """records all tasks that are owned by this employee."""
     import requests
     import sys
     import csv
