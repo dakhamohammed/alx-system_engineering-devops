@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""records all tasks that are owned by this employee."""
+"""Python script that, using this REST API, for a given employee ID,
+returns information about his/her TODO list progress,
+records all tasks that are owned by this employee."""
 if __name__ == "__main__":
     import csv
     import requests
