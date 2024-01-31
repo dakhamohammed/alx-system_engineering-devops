@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 """records all tasks that are owned by this employee."""
-import requests
-import sys
-import csv
-
 if __name__ == "__main__":
+    import csv
+    import requests
+    import sys
+
     fake_api = 'https://jsonplaceholder.typicode.com/'
     _id = sys.argv[1]
     employee = requests.get(fake_api + "users/{}".format(_id)).json()
