@@ -12,7 +12,6 @@ if __name__ == "__main__":
     employee = requests.get(fake_api + "users/{}".format(_id)).json()
     tasks = requests.get(fake_api + "todos", params={"userId": _id}).json()
     employee_username = user.get("username")
-
     with open("{}.csv".format(_id), "w", newline="") as csv_file:
     csv_w = csv.writer(csv_file, quoting=csv.QUOTE_ALL)
     [csv_w.writerow([_id, employee_username, task.get("completed"),
