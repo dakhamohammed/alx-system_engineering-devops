@@ -5,15 +5,17 @@ import requests
 
 
 def number_of_subscribers(subreddit):
-	api = f'https://www.reddit.com/r/{subreddit}/about.json'
-	headers = {
-		"User-Agent": "linux:0x16.api.advanced:v1.0.0 (by /u/usr_)"
-	}
+    """returns the number of subscribers not active users but all
+    subscribers, if an invalide subreddit is given return 0."""
+    api = f'https://www.reddit.com/r/{subreddit}/about.json'
+    headers = {
+        "User-Agent": "linux:0x16.api.advanced:v1.0.0 (by /u/usr_)"
+    }
 
-	res = requests.get(api, headers=headers, allow_redirects=False)
-	if res.status_code == 404:
-		return 0
+    res = requests.get(api, headers=headers, allow_redirects=False)
+    if res.status_code == 404:
+        return 0
 
-	res_returned = res.json().get('data')
+    res_returned = res.json().get('data')
 
-	return res_returned.get('subscribers')
+    return res_returned.get('subscribers')
