@@ -19,3 +19,4 @@ def number_of_subscribers(subreddit):
     res_returned = res.json().get('data')
 
     return res_returned.get('subscribers')
+
