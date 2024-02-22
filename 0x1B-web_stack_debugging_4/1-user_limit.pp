@@ -2,8 +2,8 @@
 
 exec {'replace-after':
   provider => shell,
-  command  => 'sudo sed -i "s/nofile 5/nofile 50000/" /etc/security/limits.conf',
-  before   => Exec['replace-2'],
+  command  => 'sudo sed -i "s/nofile 8/nofile 80000/" /etc/security/limits.conf',
+  before   => Exec['replace-before'],
 }
 
 exec {'replace-before':
