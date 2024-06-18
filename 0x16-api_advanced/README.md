@@ -1,6 +1,8 @@
 # 0x16. API advanced
 `Python` `Scripting` `Back-end` `API`
 
+![Screenshot](api_adv.png)
+
 ## General
 * How to read API documentation to find the endpoints you’re looking for
 * How to use an API with pagination
