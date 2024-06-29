@@ -1,6 +1,6 @@
 # Nginx configuration to serve Airbnb flask app page from the route /airbnb-onepage/
 server {
-    listen       80 backlog=4096 default_server;
+    listen       80 default_server;
     listen       [::]:80 default_server;
 
     #server_name  web-01.dakhamed-dom.tech;
